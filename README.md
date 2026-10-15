@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="github-banner.png"
+       alt="Abinash Chhatoi GitHub Banner"
+       width="100%" />
+</p>
+
+
 # 👋 Hi, I'm Avi!
 
 ### Aspiring Developer | Python | Java | Data Science & AI
