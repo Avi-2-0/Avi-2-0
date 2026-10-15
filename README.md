@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="github-banner.png"
+  <img src="Ideas to Intelligence_ A Futuristic Dawn.png"
        alt="Abinash Chhatoi GitHub Banner"
        width="100%" />
 </p>
