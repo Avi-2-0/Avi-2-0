@@ -2,7 +2,7 @@
 
 ### Aspiring Developer | Python | Java | Data Science & AI
 
-I'm a student and aspiring developer passionate about programming, data analysis, and artificial intelligence. I enjoy learning new technologies, solving problems, and building projects that apply programming and machine learning to real-world challenges.
+I'm a  developer passionate about programming, data analysis, and artificial intelligence. I enjoy learning new technologies, solving problems, and building projects that apply programming and machine learning to real-world challenges.
 
 - 🐍 Exploring Python, NumPy, and Pandas
 - ☕ Learning and building with Java
